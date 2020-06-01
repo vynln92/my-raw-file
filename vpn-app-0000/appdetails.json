@@ -1,11 +1,11 @@
 {
   "ads":"true",
-  "update":{
+  "update":[{
     "version":"1.0.0",
     "title":"Do you have good time with us? Let's rate us!",
     "description":"Do you have good time with us? Let's rate us!",
     "size":"21MB"
-  },
+  }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
     {"id":1, "app":"com.utorrent.client"},
